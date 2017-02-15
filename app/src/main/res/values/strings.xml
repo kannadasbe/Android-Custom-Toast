@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Toast Example</string>
+    <string name="default_toast">Default Toast</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="www_crazygeeksblog_com">www.crazygeeksblog.com</string>
+</resources>
